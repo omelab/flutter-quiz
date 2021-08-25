@@ -1,0 +1,12 @@
+/------ Gradle Problem solved -----/
+-- https://fluttercorner.com/flutter-app-stuck-at-running-gradle-task-assembledebug/
+-- https://fireship.io/snippets/dart-how-to-get-the-index-on-array-loop-map/
+-- https://stackoverflow.com/questions/66986024/the-operator-cant-be-unconditionally-invoked-because-the-receiver-can-be-n
+
+
+
+/---------- Dart Pad -------------/
+https://dartpad.dev/?null_safety=true
+
+
+/**** Tutorials *******/
